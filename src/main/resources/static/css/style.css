@@ -1,0 +1,41 @@
+/* Reset some default styles for better consistency */
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background color to the entire body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header section */
+.header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style the title in the header */
+.title {
+    font-size: 36px;
+}
+
+/* Style the main content section */
+.main {
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style the subtitle and links in the main content */
+.subtitle {
+    font-size: 18px;
+}
+
+.link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
